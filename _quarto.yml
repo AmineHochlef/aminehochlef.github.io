@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   title: "Amine Hochlef"
   site-url: https://www.aminehochlef.github.io

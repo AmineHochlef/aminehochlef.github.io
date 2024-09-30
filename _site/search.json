@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amine Hochlef",
-    "section": "",
-    "text": "Bio\nCurrently enrolled in university, pursuing a bachelor degree in computer science with a keen focus on machine learning.\nOn this site I keep a technical blog, a list of my projects (to be done), presentations(to be done) and my resume.\n\n\nNow\nCurrently, I am:\n\nSelf learning ML and doing projects\nStudying computer science at uni\nSeeking a collaborative team project in ML. Please reach out\n\nLast Updated : 27/09/2024"
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amine Hochlef",
+    "section": "",
+    "text": "Bio\nCurrently enrolled in university, pursuing a bachelor degree in computer science with a keen focus on machine learning.\nOn this site I keep a technical blog, a list of my projects (to be done), presentations(to be done) and my resume.\n\n\nNow\nCurrently, I am:\n\nSelf learning ML and doing projects\nStudying computer science at uni\nSeeking a collaborative team project in ML. Please reach out\n\nLast Updated : 27/09/2024"
   },
   {
     "objectID": "blog.html",
