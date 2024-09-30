@@ -1,0 +1,48 @@
+---
+title: "Amine Hochlef"
+toc: false
+image: adam.jpg
+about:
+  template: trestles
+  image-width: 17em
+  image-shape: rounded
+  image-alt: "Tay"
+  image-title: "Tay"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/AmineHochlef22
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aminehochlef/
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/aminehochlef
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@aminehochlef
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: "mailto:amin.hochlef@gmail.com"
+    - text: Blog
+      href: blog.qmd
+---
+
+# Bio
+
+Currently enrolled in university, pursuing a bachelor degree in computer science with a keen focus on machine learning.
+
+On this site I keep a [technical blog](blog.qmd), a list of my projects (to be done), presentations(to be done) and my resume.
+
+# Now
+
+Currently, I am:
+
+* Self learning ML and doing projects
+* Studying computer science at uni
+* Seeking a collaborative team project in ML. Please reach out
+
+Last Updated : **27/09/2024**
