@@ -11,7 +11,21 @@
     "href": "posts/first-blog-post/index.html",
     "title": "First blog post",
     "section": "",
-    "text": "This is a test post :\n\nexampl 1\nexampl 1\nexampl 1\nexampl 1 yes"
+    "text": "bla bla bla\n\nexampl 1\nexampl 1\nexampl 1\nexampl 1 yes"
+  },
+  {
+    "objectID": "posts/first-blog-post/index.html#heading-2",
+    "href": "posts/first-blog-post/index.html#heading-2",
+    "title": "First blog post",
+    "section": "",
+    "text": "bla bla bla\n\nexampl 1\nexampl 1\nexampl 1\nexampl 1 yes"
+  },
+  {
+    "objectID": "posts/first-blog-post/index.html#heading-2-1",
+    "href": "posts/first-blog-post/index.html#heading-2-1",
+    "title": "First blog post",
+    "section": "Heading 2",
+    "text": "Heading 2\nhi blow."
   },
   {
     "objectID": "index.html",
