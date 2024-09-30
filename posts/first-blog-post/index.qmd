@@ -1,0 +1,16 @@
+---
+title: "First blog post"
+author: "Amine Hochlef"
+date: "2024-09-30"
+categories: [Machine Learning, Convolutional Neural Networks, Linear Algebra]
+image: "python-libraries.jpg"
+---
+
+This is a test post :
+
+* exampl 1
+* exampl 1
+* exampl 1
+* exampl 1 **yes**
+
+![Libraries](python-libraries.jpg)
