@@ -20,6 +20,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/aminehochlef
+      target: _blank
     - icon: medium
       text: Medium
       href: https://medium.com/@aminehochlef
