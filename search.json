@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/01-10-2024-welcome-to-my-mental-mosaic/index.html",
+    "href": "posts/01-10-2024-welcome-to-my-mental-mosaic/index.html",
+    "title": "Welcome to my Mental Mosaic",
     "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "posts/first-blog-post/index.html",
-    "href": "posts/first-blog-post/index.html",
-    "title": "First blog post",
-    "section": "",
-    "text": "bla bla bla\n\nexampl 1\nexampl 1\nexampl 1\nexampl 1 yes"
-  },
-  {
-    "objectID": "posts/first-blog-post/index.html#heading-2",
-    "href": "posts/first-blog-post/index.html#heading-2",
-    "title": "First blog post",
-    "section": "",
-    "text": "bla bla bla\n\nexampl 1\nexampl 1\nexampl 1\nexampl 1 yes"
-  },
-  {
-    "objectID": "posts/first-blog-post/index.html#heading-2-1",
-    "href": "posts/first-blog-post/index.html#heading-2-1",
-    "title": "First blog post",
-    "section": "Heading 2",
-    "text": "Heading 2\nhi blow."
+    "text": "In the past year or so, I have become very interested in machine learning and its applications. This led me to self-learn it alongside my bachelor’s degree in computer science. I had heard about “learning in public” and sharing what you learn with others before I began this journey, but I thought to myself, “This seems like a lot of trouble.”\nFast forward seven months, and I regret not creating a blog and posting things online.\n\nWhat This Blog Will Contain\nSince this is a technical blog, I won’t be writing about my activities outside of my professional career. The blog will contain posts about machine learning, things I’ve learned, fun projects I’ve worked on, tools I find interesting, and quirky observations about our cool planet—you get the idea.\nMy goal is to write posts about anything interesting I come across, reflections after a talk or conference, and maybe more.\n\n\nThoughts\nAs a beginner writer who’s just starting to take steps into learning in public, I will prioritize this effort by committing to writing at least one post per month.\nLet the fun begin!"
   },
   {
     "objectID": "index.html",
@@ -37,15 +16,8 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "Mental Mosaic",
     "section": "",
-    "text": "First blog post\n\n\n\n\n\n\nBlog\n\n\n\nA brief summary or preview of your blog post content. This will appear on the listing page and potentially in the header of the post itself.\n\n\n\n\n\nSep 30, 2024\n\n\nAmine Hochlef\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 27, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 24, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Welcome to my Mental Mosaic\n\n\n\n\n\n\nBlog\n\n\n\nA brief summary of what kind of stuff will be written in this blog.\n\n\n\n\n\nOct 1, 2024\n\n\nAmine Hochlef\n\n\n\n\n\n\nNo matching items"
   }
 ]
