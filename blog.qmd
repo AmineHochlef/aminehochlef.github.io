@@ -1,7 +1,12 @@
 ---
-title: "Blog"
+title: "Mental Mosaic"
+description: "Data Meets Narrative"
 listing:
-  contents: posts
+  feed: 
+      items: 5 
+      type: full
+      language: en 
+  contents: posts/**/*.qmd
   sort: "date desc"
   type: default
   categories: true

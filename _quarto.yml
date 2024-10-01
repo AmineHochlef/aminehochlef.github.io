@@ -14,7 +14,8 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - blog.qmd
+      - text: "Blog"
+        href: blog.qmd
       - icon: rss
         href: blog.xml
     toggle-position: right

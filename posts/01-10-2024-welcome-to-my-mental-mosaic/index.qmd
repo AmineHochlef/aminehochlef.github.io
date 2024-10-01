@@ -1,0 +1,29 @@
+---
+title: "Welcome to my Mental Mosaic"
+description: "A brief summary of what kind of stuff will be written in this blog."
+author: "Amine Hochlef"
+date: "2024-10-01"
+categories: [Blog]
+image: "utopia.jpg"
+toc: true
+---
+
+In the past year or so, I have become very interested in machine learning and its applications. This led me to self-learn it alongside my bachelor’s degree in computer science. I had heard about "learning in public" and sharing what you learn with others before I began this journey, but I thought to myself, "This seems like a lot of trouble."
+
+Fast forward seven months, and I regret not creating a blog and posting things online.
+
+# What This Blog Will Contain
+
+Since this is a technical blog, I won't be writing about my activities outside of my professional career. The blog will contain posts about machine learning, things I’ve learned, fun projects I’ve worked on, tools I find interesting, and quirky observations about our cool planet—you get the idea.
+
+My goal is to write posts about anything interesting I come across, reflections after a talk or conference, and maybe more.
+
+# Thoughts
+
+As a beginner writer who’s just starting to take steps into learning in public, I will prioritize this effort by committing to writing at least one post per month.
+
+Let the fun begin!
+
+
+
+
