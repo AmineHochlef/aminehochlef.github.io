@@ -9,7 +9,7 @@ about:
   image-alt: "Tay"
   image-title: "Tay"
   links:
-    - icon: twitter
+    - icon: twitter-x
       text: Twitter
       href: https://x.com/AmineHochlef22
       target: _blank
